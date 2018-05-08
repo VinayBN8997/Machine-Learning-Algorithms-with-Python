@@ -6,12 +6,12 @@ Data set: UCI heart disease Data set
 http://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 Applied Algorithms from scratch:
-Multi Layer Perceptron
-Radial Basis Function
-Decision Trees
+Multi Layer Perceptron,
+Radial Basis Function,
+Decision Trees,
 K Nearest Neighbours
 
 Ensemble techniques using SKlearn Library:
-Bagging (Bootstrap aggregating)
-Boosting (AdaBoost)
+Bagging (Bootstrap aggregating),
+Boosting (AdaBoost),
 Stacking
